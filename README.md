@@ -1,1 +1,1 @@
-# emp_flutter-and_android
+A simple command-line application.
